@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+.venv/
+
+# Virtualenv
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Data and models (do not commit large binaries or PII)
+models/
+data/
+creditcard.csv
+creditcard_deduped.csv
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
